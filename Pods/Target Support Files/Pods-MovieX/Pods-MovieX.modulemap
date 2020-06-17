@@ -1,0 +1,6 @@
+module Pods_MovieX {
+  umbrella header "Pods-MovieX-umbrella.h"
+
+  export *
+  module * { export * }
+}
